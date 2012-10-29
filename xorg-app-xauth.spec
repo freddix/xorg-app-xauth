@@ -9,7 +9,7 @@ Source0:	http://xorg.freedesktop.org/releases/individual/app/xauth-%{version}.ta
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	pkgconfig
+BuildRequires:	pkg-config
 BuildRequires:	xorg-libXau-devel
 BuildRequires:	xorg-libXext-devel
 # just xmuu
